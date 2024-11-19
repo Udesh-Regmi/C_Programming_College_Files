@@ -8,38 +8,36 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 ---
 
 ## 📂 Repository Structure
-
 ```
 ├── Final_Project
 ├── Lab Reports
-├── Lab_Exercise_1
-│   └── Basics_Syntax_Structure
-│       ├── Question_1.c
-│       ├── Question_2.c
-│       ├── Question_3.c
-│       ├── Question_4.c
-│       ├── Question_5.c
-│       └── Question_6.c
-├── Lab_Exercise_2
-│   └── Data_Types, Operators and Expressions in C
-│       ├── Question_1.c
-│       ├── Question_2.c
-│       ├── Question_3.c
-│       ├── Question_4.c
-│       ├── Question_5.c
-│       ├── Question_6.c
-│       ├── Question_7.c
-│       └── a.out
-├── Lab_Exercise_3
-├── Lab_Exercise_4
-├── Lab_Exercise_5
-├── Lab_Exercise_6
-├── Lab_Exercise_7
-├── Lab_Exercise_8
-├── Lab_Exercise_9
+│   ├── Lab_Exercise_1
+│   │   └── Basics_Syntax_Structure
+│   │       ├── Question_1.c
+│   │       ├── Question_2.c
+│   │       ├── Question_3.c
+│   │       ├── Question_4.c
+│   │       ├── Question_5.c
+│   │       └── Question_6.c
+│   ├── Lab_Exercise_2
+│   │   └── Data_Types, Operators and Expressions in C
+│   │       ├── Question_1.c
+│   │       ├── Question_2.c
+│   │       ├── Question_3.c
+│   │       ├── Question_4.c
+│   │       ├── Question_5.c
+│   │       ├── Question_6.c
+│   │       ├── Question_7.c
+│   │       └── a.out
+│   ├── Lab_Exercise_3
+│   ├── Lab_Exercise_4
+│   ├── Lab_Exercise_5
+│   ├── Lab_Exercise_6
+│   ├── Lab_Exercise_7
+│   ├── Lab_Exercise_8
+│   └── Lab_Exercise_9
 └── Readme.md
 ```
-
 ---
 
 ## 📊 Overview of This Repository
