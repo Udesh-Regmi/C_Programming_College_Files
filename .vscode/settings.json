@@ -1,6 +1,14 @@
 {
     "files.associations": {
         "*.ts": "typescript",
-        "ostream": "c"
+        "ostream": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "format": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c",
+        "variant": "c"
     }
 }
