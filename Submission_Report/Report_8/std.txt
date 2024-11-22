@@ -1,24 +1,24 @@
-Roll No: 12
-Name: fjid
-Address: ewio
-Age: 1
-Marks in Physics: 2.00
-Marks in C. Math: 2.00
-Average Marks: 2.00
+Roll No: 1
+Name: Rajesh
+Address: Chahabil
+Age: 18
+Marks in Physics: 89.00
+Marks in C. Math: 99.00
+Average Marks: 94.00
 
 Roll No: 2
-Name: ioejdf
-Address: 2ko4rietj
-Age: 2
-Marks in Physics: 1.00
-Marks in C. Math: 4.00
-Average Marks: 2.50
+Name: Surakshya
+Address: Pokhara
+Age: 20
+Marks in Physics: 70.00
+Marks in C. Math: 80.00
+Average Marks: 75.00
 
-Roll No: 5
-Name: ioqerjfdh
-Address: ktrjg
-Age: 6
-Marks in Physics: 7.00
-Marks in C. Math: 8.00
-Average Marks: 7.50
+Roll No: 3
+Name: Ranzeet
+Address: Galchhi
+Age: 19
+Marks in Physics: 99.00
+Marks in C. Math: 93.00
+Average Marks: 96.00
 
