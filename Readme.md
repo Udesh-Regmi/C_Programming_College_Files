@@ -10,7 +10,22 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 ## 📂 Repository Structure
 
 ```
+
 ├── Final_Project
+│   ├── Bus_Reservation
+│   │   ├── a.out
+│   │   ├── buses.txt
+│   │   ├── main.c
+│   │   └── users.txt
+│   ├── Calculator
+│   │   └── index.c
+│   ├── Conversion_System
+│   │   └── index.c
+│   └── Library_Management
+│       ├── library.c
+│       ├── library.h
+│       ├── library.h.gch
+│       └── main.c
 ├── Lab Reports
 │   ├── Lab_Exercise_1
 │   │   └── Basics_Syntax_Structure
@@ -21,24 +36,24 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 │   │       ├── Question_5.c
 │   │       └── Question_6.c
 │   ├── Lab_Exercise_2
-│   │   └── Data_Types_Operators_and_Expressions_in_C
+│   │   └── Data_Types,  Operators and Expressions in C
 │   │       ├── Question_1.c
 │   │       ├── Question_2.c
 │   │       ├── Question_3.c
 │   │       ├── Question_4.c
 │   │       ├── Question_5.c
 │   │       ├── Question_6.c
-│   │       ├── Question_7.c
-│   │       └── a.out
+│   │       └── Question_7.c
 │   ├── Lab_Exercise_3
-│   │   └── Formatted_and_unFormatted_IO_in_C_with_preprocessor_directives
-│   │       ├── Question_1.c
-│   │       ├── Question_2.c
-│   │       ├── Question_3.c
-│   │       ├── Question_4.c
-│   │       └── Question_5.c
+│   │   └── Formatted and unFormatted I
+│   │       └── O in C with preprocessor directives
+│   │           ├── Question_1.c
+│   │           ├── Question_2.c
+│   │           ├── Question_3.c
+│   │           ├── Question_4.c
+│   │           └── Question_5.c
 │   ├── Lab_Exercise_4
-│   │   └── Decision_Statements
+│   │   └── Decision_Statement
 │   │       ├── Question_1.c
 │   │       ├── Question_2.c
 │   │       ├── Question_3.c
@@ -46,7 +61,7 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 │   │       ├── Question_5.c
 │   │       └── Question_6.c
 │   ├── Lab_Exercise_5
-│   │   └── Function_Programming_Types_and_Function_Call
+│   │   └── function programming, its types, and function-call
 │   │       ├── Question_1.c
 │   │       ├── Question_2.c
 │   │       ├── Question_3.c
@@ -55,7 +70,7 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 │   │       ├── Question_6.c
 │   │       └── Question_7.c
 │   ├── Lab_Exercise_6
-│   │   └── Array_and_Pointers
+│   │   └── Array_Pointers
 │   │       ├── Question_1.c
 │   │       ├── Question_2.c
 │   │       ├── Question_3.c
@@ -86,7 +101,7 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 │   │       ├── person.txt
 │   │       └── stringc.txt
 │   └── Lab_Exercise_9
-|        ├── Graphics_in_C
+│       └── Graphics_in_C
 ├── Readme.md
 └── Submission_Report
     ├── Report_1
@@ -100,13 +115,18 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
     ├── Report_5
     │   └── report.c
     ├── Report_6
+    │   ├── a.out
     │   └── report.c
     ├── Report_7
+    │   ├── a.out
     │   └── report.c
     ├── Report_8
+    │   ├── a.out
     │   ├── report.c
     │   └── std.txt
     └── Report_9
+        ├── main
+        ├── main.cpp
         ├── report_no__1.c
         ├── report_no__2.c
         ├── report_no__3.c
@@ -118,8 +138,8 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 
 ## 📊 Overview of This Repository
 
-- **Total Directories**: 14
-- **Total Files**: 71
+- **Total Directories**: 36
+- **Total Files**: 86
 - **Lab Exercises Covered**: 9 (with more to come)
 - **Programming Topics**: Basic Syntax, Data Types, Operators, Expressions, Decision Statements, Functions, Arrays, Pointers, Structures, File Handling, and more.
 
@@ -185,6 +205,8 @@ Welcome to my **C Programming Repository**! This repository houses all the proje
 ### Lab_Exercise_8 - **File Handling in C**
 - Explores how to handle files in C using `fopen`, `fread`, `fwrite`, and `fclose`.
 - Key topics: File Reading/Writing, File Modes, Text Files vs Binary Files.
+### Lab Exercise 9: **Graphics in C**
+   - Programs utilizing graphics libraries for creating visual applications.
 
 ---
 
