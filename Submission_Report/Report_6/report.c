@@ -40,7 +40,7 @@ void sortArray(int *arr, int size) {
         }
     }
 }
-
+    
 // Function to display the array
 void displayArray(int *arr, int size) {
     printf("Array elements: ");
